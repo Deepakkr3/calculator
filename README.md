@@ -1,5 +1,6 @@
 # calculatorApp
 #deployment link-https://mycalcappdev.netlify.app/
+![Screenshot (107)](https://github.com/Deepakkr3/calculator/assets/115481021/a478692a-7a1c-4193-af81-06ccca09dccc)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
